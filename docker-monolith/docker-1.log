@@ -1,0 +1,7 @@
+REPOSITORY             TAG                 IMAGE ID            CREATED             SIZE
+ivan/ubuntu-tmp-file   latest              d5cf0574cc3b        2 minutes ago       114MB
+ubuntu                 16.04               5e8b97a2a082        6 days ago          114MB
+jdk8-gradle            latest              e44cd0fd130b        7 days ago          810MB
+hello-world            latest              e38bc07ac18e        2 months ago        1.85kB
+gradle                 4.6-jdk8            80fdc8fdfd32        2 months ago        810MB
+centos                 latest              2d194b392dd1        3 months ago        195MB
